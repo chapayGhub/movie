@@ -3,7 +3,7 @@ function [] = Coll()
     close all;
     %content of data: user_id|movie_id|rating|timestamp
     %sorted by user_id
-    data = sortrows(load('u.data'),1);
+    data = sortrows(load('data\u.data'),1);
 
     %the number of the users
     no_user = max(data(:,1));
