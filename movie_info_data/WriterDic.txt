@@ -1,0 +1,1995 @@
+0285557	Christian Ford
+0498080	Ricardo Lee
+0502039	Gary Lennon
+0012938	James Agee
+0075727	Barry Berman
+0341389	Tony Griffin
+0060914	H.E. Bates
+0060915	Harry Bates
+0644806	Mo Ogrodnik
+0167029	Art Clokey
+0379044	Richard Herley
+0860292	Jim Thompson
+0230032	Pete Docter
+0358960	Christopher Hampton
+0082772	Carl Binder
+0440799	Sam Henry Kass
+0378144	Jonathan Hensleigh
+0911660	Kelly Ward
+0414312	Alan Jacobs
+0334420	André Graill
+0116091	Philippe Bruneau
+0442455	Mika Kaurismäki
+0227779	Greg Dinner
+0238743	Susan Warms Dryfoos
+0402805	Evan Hunter
+0577849	James Melkonian
+0840307	Felix Sutton
+0254645	Ted Elliott
+0468169	Dusan Kovacevic
+0441750	Jordan Katz
+0359180	Mok Tang Han
+0634300	Jonathan Nolan
+0517064	Kurt Loder
+0167030	Gloria Clokey
+0020022	Ted Allan
+0589616	Bertram Millhauser
+0920272	John Wells
+0920274	John Wells
+0270819	Bi Feiyu
+0350581	Miklós Györffy
+0774792	Robert Schooley
+0704792	David Rabe
+0254632	Stephan Elliott
+0668247	Alexander Payne
+0154716	Stephen Chbosky
+0747317	Patricia Royce
+0196967	Rick Dahl
+0039576	Peter Asmussen
+0047076	Steven Baigelman
+0003355	Christopher Monger
+0908807	Pamela Wallace
+2927785	Harold Pearl
+0769249	Furio Scarpelli
+0643093	Joyce Carol Oates
+0477696	Erich Kästner
+0424560	Bayard Johnson
+0336462	Barry Gray
+0724192	Ken Richards
+0634368	William F. Nolan
+0000100	Rowan Atkinson
+0000101	Dan Aykroyd
+0265792	Shichirô Fukazawa
+0101508	Steve Box
+0663933	Michael Part
+0000108	Luc Besson
+0005124	John Lasseter
+0604555	Chris Morgan
+0231929	Ann Donahue
+0748438	Harry Ruby
+0005139	Mike Leigh
+0649866	Joseph Oriolo
+0567126	Bruce McCulloch
+0359563	Peter Handke
+0629580	Dudley Nichols
+0826714	Zack Stentz
+0154773	Martha Cheavens
+0275486	Tina Fey
+0457736	Edward Kitsis
+0152638	Dave Chappelle
+2652647	Jonathon The Impaler Sharkey
+0021196	Isabel Allende
+0402848	Ian McLellan Hunter
+0334457	Michael Grais
+0001294	Graham Greene
+0021577	Merzak Allouache
+0705474	Peter Rader
+0810316	Wayne Smith
+0002340	Stuart Gordon
+0919101	Matthew Weiss
+0329335	Harry Goodridge
+0001681	George A. Romero
+0644823	Hideo Oguni
+0258525	Philip G. Epstein
+0887814	Manie van Rensburg
+0003369	Karin Howard
+0411872	Kazunori Itô
+0390708	Isabelle Holland
+0020068	Harry Allard
+0142577	Raymond Carver
+0379056	Tim Herlihy
+0071790	Harve Bennett
+0136262	Lorenzo Carcaterra
+0187593	John Cresswell
+0284524	Naomi Foner
+0499626	Ernest Lehman
+0085648	Thomas W. Blackburn
+0389415	Gray Hofmeyr
+0399737	Reginald Hudlin
+0047976	Jon Robin Baitz
+0093344	Neville Bolt
+0748870	Paul Rudnick
+0258531	Rob Epstein
+0749914	Raoul Ruiz
+0070676	Tom Benedek
+0167496	René Clément
+0909699	John Walsh
+0488057	Ring Lardner Jr.
+0001279	William Goldman
+0024925	Hossein Amini
+0748874	Steve Rudnick
+0001274	Paul Michael Glaser
+0948021	Ho Yim
+0377417	Paul Henning
+0836198	Al Stump
+0063215	Carter Bays
+0027893	Hellmut Andics
+0121331	Mitchell Burgess
+0920216	George Wells
+0690798	Robert Roy Pool
+0133044	Anna Campion
+0214663	Andre Degas
+0619762	Mira Nair
+0382956	Scott Hicks
+0113164	Bruce Brown
+0871252	B. Traven
+0568730	David McFadzean
+0689081	Stephen Poliakoff
+3894914	Mary Popovic
+0113689	Harry Brown
+0073053	Leonardo Benvenuti
+0501380	Jonathan Lemkin
+0189749	John Crowley
+0840380	Phoef Sutton
+0665704	Alan Paton
+0908824	Randall Wallace
+0690770	DJ Pooh
+0928108	Crane Wilbur
+0939102	Hing-Dong Wong
+0384283	Gladys Hill
+0712575	Jeff Rawle
+0166307	Larry Clemmons
+0741627	Reginald Rose
+0583238	Kevin Meyer
+0337582	Adolph Green
+0313623	Terry George
+0692108	Eleanor H. Porter
+0314826	Leonard Gershe
+0194274	Catherine Cyran
+0316044	Giuseppe Giacosa
+0345488	Paul Guay
+0338396	Walon Green
+0630057	Michael A. Nickles
+0330468	Mildred Gordon
+0513787	Eleazar Lipsky
+0606611	James Morris
+0908890	Tommy Lee Wallace
+0658375	Michael Palmer
+0514043	Bill Lishman
+0742568	Seth Zvi Rosenfeld
+0043742	David Ayer
+0922799	Donald E. Westlake
+0092267	Pierre Boileau
+0092268	Thomas Narcejac
+0398343	William Hoy
+0669757	David E. Peckinpah
+0501729	Robert Lence
+0041722	Michael Auerbach
+0827856	Stewart Stern
+0417716	Tom Jankiewicz
+0272511	Larry Ferguson
+0382997	Julie Hickson
+0001220	Ian Fleming
+0626409	Avi Nesher
+0618284	Ray Müller
+0001214	Mike Figgis
+0378562	James Herbert
+0638080	Trevor Nunn
+0909638	Fran Walsh
+0004412	Ed Solomon
+0920229	H.G. Wells
+0114197	Mark Brown
+0102339	T. Coraghessan Boyle
+0032318	Max Apple
+0724514	Doug Richardson
+3090268	Ed Brubaker
+0101956	William Boyd
+0001203	William Faulkner
+0531878	Philip MacDonald
+0001202	Rainer Werner Fassbinder
+0827839	Sandor Stern
+0637793	Frank S. Nugent
+0932078	Kevin Williamson
+1020744	Lynn Harvey
+0057284	Shirley Barrett
+0175676	Joseph Conrad
+0141930	Sara Flanigan
+0147265	André Cayatte
+0476071	Robert Kurtzman
+0745315	Elisa M. Rothstein
+0455510	Dorothy Kingsley
+0438303	Louise J. Kaplan
+0298279	Kim Fuller
+0486538	Noel Langley
+0230449	Johan Doesburg
+0418883	Kevin Jarre
+0205923	George Dawes Green
+0000626	John Sayles
+0459278	Hans-Ulrich Klenner
+0710683	Maurice Rapf
+0867263	Su Tong
+0203577	Andrew Davies
+0425676	LouAnne Johnson
+3041404	Dennis Kao
+0489623	Lawrence Lasker
+0258493	Julius J. Epstein
+0759410	Hal Salwen
+0489620	Alex Lasker
+2788369	Jonathan W. Stokes
+0037708	Miguel Arteta
+0000196	Mike Myers
+0409197	Chris Innis
+0741582	Mickey Rose
+0938774	Robert Wolterstorff
+0745704	Dominique Roulet
+0921208	Mike Werb
+0166767	Patrick J. Clifton
+0443582	Nicholas Kazan
+0584770	Simon Michaël
+0097079	Ole Bornedal
+0702804	Paris Qualles
+0477193	Richard Kwietniowski
+0534665	Guy Maddin
+0086282	Jon Blair
+0852363	Finn Taylor
+0314788	Vance Gerry
+0000199	Al Pacino
+0000198	Gary Oldman
+0157470	Lincoln Child
+0045209	Michael Bacall
+0299301	John Fusco
+0608658	Bob Mosher
+0000601	Harold Ramis
+0000600	Sam Raimi
+0742194	Craig Rosenberg
+0261294	Laura Esquivel
+0245726	Gretchen Dyer
+0939182	Kar Wai Wong
+0802020	Randi Mayem Singer
+1270819	Brian Nissen
+0730422	Matthew Robbins
+0388076	John Hodge
+0875844	Diane Tucker
+0320660	François Girard
+0832099	Peter Stone
+0446132	Virginia Kellogg
+0101991	Philippa Boyens
+0289653	Tracy Fraim
+0490061	Aaron Latham
+0325533	Michael Goldenberg
+0542752	Farhad Mann
+0913346	Deric Washburn
+0107954	Jonathan Brett
+0682757	Frank Pierson
+0483766	Jake LaMotta
+0452878	Ryûzô Kikushima
+0957453	Lee David Zlotoff
+0421084	Jim Jennewein
+0192356	John W. Cunningham
+0306949	Herb Gardner
+0193485	Richard Curtis
+0111845	Adam Brooks
+0100525	Nouri Bouzid
+0768597	Louis Saïa
+0941173	Virginia Woolf
+0825799	Norman Steinberg
+0456158	Jack Kirby
+0905458	Kevin Wade
+0480641	Steph Lady
+0024554	Deborah Amelon
+0156451	Chi-Sing Cheung
+0627159	Edward Neumeier
+0465199	Lawrence Konner
+0612736	Robert Mundi
+0446190	April Kelly
+0317510	Barry Gifford
+0818547	Scott Spiegel
+0192342	Jere Cunningham
+0907186	Frank Waldman
+0641882	Brian E. O'Neal
+0243982	Paul Durden
+0471811	Kim Krizan
+0583600	Nancy Meyers
+0384248	Ethel Hill
+0641874	Cleveland O'Neal III
+0729151	Stephen J. Rivele
+0213234	Frank Deasy
+0113061	Art Edler Brown
+0029068	James Andronica
+0438320	Marty Kaplan
+0392942	William Douglas-Home
+0277716	Carmen Finestra
+1027203	Michael Covert
+0701374	Mario Puzo
+1764645	Phyllis Ward
+0748035	Danny Rubin
+0730478	Tom Robbins
+0588986	Michael Alexander Miller
+0335455	James Edward Grant
+0697656	Gina Prince-Bythewood
+0723468	John Rice
+0187232	Richard Creedon
+0573334	Terry McMillan
+0419884	Vadim Jean
+0610496	Allan Moyle
+0335469	Joe Grant
+0902376	Thea von Harbou
+0168214	Stacy Cochran
+0441300	Jason Katims
+0326040	Akiva Goldsman
+0588082	Chris Miller
+0506619	Shuki Levy
+0043480	George Axelrod
+0743584	Kenneth Ross
+0516207	Alan Llwyd
+0044534	Jean-Pierre Azéma
+0242897	Philip Dunne
+0081052	Jack M. Bickham
+0122484	Sheila Burnford
+0683380	Nicholas Pileggi
+0787323	Peter Shaffer
+0800555	Rocco Simonelli
+0748022	Bruce Joel Rubin
+0591160	Michael Miner
+0753249	Florence Ryerson
+0760131	Keith Samples
+0832043	Matthew Stone
+0005212	Ian McKellen
+0005562	Owen Wilson
+0000691	John Waters
+0334381	Seth Grahame-Smith
+0495863	Fredric LeBow
+0401738	Cyril Hume
+0450262	Joseph Kessel
+0287025	Bill Forsyth
+0383604	Patricia Highsmith
+0643043	Vern Oakley
+0331296	Marleen Gorris
+0000694	Wim Wenders
+0373893	Johannes Heide
+0237225	Jay Dratler
+0209667	Marcus DeLeon
+0137342	Cynthia Carle
+0000698	Gene Wilder
+0000697	Billy Wilder
+0171664	Cyril Collard
+0001675	Robert Rodriguez
+0382437	Carl Hiaasen
+0192384	Lowell Cunningham
+0745087	Jeff Rothberg
+0127321	Jürgen Büscher
+0555610	Frederick Marx
+0887708	Melvin Van Peebles
+0560202	Tom Matthews
+0026862	Jane Anderson
+0829044	Robert Louis Stevenson
+0958993	Alan Zweibel
+0605982	Daniel Mornin
+0242869	John Gregory Dunne
+0000118	John Carpenter
+0578128	Greg Mellott
+0863988	John Tinker
+0669692	Mitchell Peck
+0000114	Steve Buscemi
+0000116	James Cameron
+0431622	William Joyce
+0329304	Frances Goodrich
+0294997	Jason Friedberg
+0000110	Kenneth Branagh
+0569790	Douglas McGrath
+0851724	Bertrand Tavernier
+0796848	Lynn Siefert
+0005237	Anthony Minghella
+0000671	Billy Bob Thornton
+0542777	Heinrich Mann
+0137363	Carlo Carlei
+0007366	Jefri Aalmuhammed
+0215299	Steven S. DeKnight
+0471247	Helena Kriel
+0825738	David H. Steinberg
+0000129	Tom Cruise
+0065847	Michael Frost Beckner
+0000127	Wes Craven
+0359613	Mark Handley
+0000122	Charles Chaplin
+0006249	Satyajit Ray
+0040643	Peter Atkins
+0918904	Andrea Weiss
+0780833	George Seaton
+1471741	Geramie Barmé
+0458517	Mitchell Klebanoff
+0441896	John Katzenbach
+0679917	Rodman Philbrick
+0416945	Steve James
+0576282	Leslie Megahey
+0825705	John Steinbeck
+0033578	Jeff Arch
+0422669	Feng Jicai
+0914058	Daniel Waters
+0936537	William Wisher Jr.
+0059835	Harry Basil
+0695878	Helen Prejean
+0000175	Stephen King
+0001639	Alex Proyas
+0876562	Karl Tunberg
+0049641	David Baldacci
+0000188	Steve Martin
+1841065	Michael Starrbury
+0876564	William Tunberg
+0668252	Andrew Payne
+0793463	Susan Shilliday
+0118227	Sidney Buchman
+0625458	Jessie Nelson
+0300532	Thomas E. Gaddis
+0370928	Carey Hayes
+0867225	Elliot Tong
+0347451	Fred Guiol
+0000668	Emma Thompson
+0000186	David Lynch
+0712994	Sandip Ray
+0000184	George Lucas
+0000158	Tom Hanks
+0920114	Bill Wells
+0723704	Richard Rich
+0651585	Paul Osborn
+0365383	Thomas Harris
+0785477	Leopoldo Serran
+0340580	Harry Grey
+0428630	Laura Jones
+0859469	Ross Thomas
+0005540	Keenen Ivory Wayans
+0168285	Andrew Cockburn
+0005541	Marlon Wayans
+0588903	Mark Miller
+0787399	Steve Shagan
+0498963	Adam Leff
+0574996	Martin Meader
+0149669	Ilene Chaiken
+0460141	Steve Kloves
+1281893	Jonathan Harvey
+0370937	Chad Hayes
+0497828	Mark Lee
+0653307	Whitney Otto
+0848819	Amy Tan
+0052209	Lynne Reid Banks
+0000636	William Shakespeare
+0000638	William Shatner
+0717550	Ethan Reiff
+0161536	Carolyn Chute
+0058369	Lionel Bart
+0608859	Walter Mosley
+0082759	Maeve Binchy
+0168298	Leslie Cockburn
+0584297	Bret Michaels
+0396229	A.E. Hotchner
+0681654	Filippo Pichi
+0583675	Menno Meyjes
+0479721	Philippe Labro
+0312481	Woody Gelman
+0001603	Sam Peckinpah
+0920108	Audrey Wells
+0852313	Dwight Taylor
+0452102	Abbas Kiarostami
+0497046	Cinqué Lee
+0400056	Dick Huemer
+0672015	Zak Penn
+0224187	Gerald Di Pego
+0004332	Robert B. Weide
+0864880	John Tobias
+0003298	Scott Rosenberg
+0731679	William Roberts
+0378240	Robby Henson
+0067248	Larry Beinhart
+0764982	Jan Sardi
+0270936	Mark Feldberg
+0788526	J.D. Shapiro
+0153777	James Hadley Chase
+0851568	Pavel Taussig
+0916139	James R. Webb
+0472495	Lisa Krueger
+0563397	Stephen Mazur
+0021899	Michael Almereyda
+0679326	Chuck Pfarrer
+0397608	Sidney Howard
+1004299	Brad Falchuk
+0370328	Lowell S. Hawley
+0031976	Judd Apatow
+0877587	Guinevere Turner
+0930062	Barbara Williams
+0202681	Delmer Daves
+0073509	John Berendt
+0942367	Edgar Wright
+0218840	Jacques Demy
+0317279	Raynold Gideon
+0075859	Ted Berman
+0484009	Benoît Lamy
+0575865	Mark Medoff
+0714599	Eric Red
+0866014	George Toles
+0946244	Ron Yanover
+0086658	Michael Blake
+0859241	Michael Thomas
+0722610	Don Rhymer
+0414608	Robert Nelson Jacobs
+0653620	Gérard Oury
+0623297	Phyllis Reynolds Naylor
+0756836	Hisashi Saito
+0490417	Greg Latter
+0663016	Suzan-Lori Parks
+0949430	Dalene Young
+0308177	Oliver H.P. Garrett
+0813825	Bernie Somers
+0696190	Robert Presnell Sr.
+0179968	David L. Corley
+0006445	Eric Rohmer
+0317265	André Gide
+1732981	Martin McDonagh
+0848496	Paul Tamasy
+1363595	Dan Harmon
+0747724	John Ruane
+0213726	Tom DeCerchio
+0891554	Francis Veber
+0000209	Tim Robbins
+0778554	Tiziano Sclavi
+0688282	John Pogue
+0005390	Patricia Rozema
+0942723	Ralph Wright
+0739744	Gianni Romoli
+0851522	Gilles Taurand
+0201095	Luc Dardenne
+0201094	Jean-Pierre Dardenne
+4267752	Francis X. McCarthy Jr.
+0383421	John C. Higgins
+0111576	Charlotte Brontë
+0060145	Giorgio Bassani
+0118809	Jan Bucquoy
+0795730	Irving Shulman
+0903456	Cyrus Voris
+0688279	Charles Edward Pogue
+0078760	Agustina Bessa-Luís
+0672459	David Webb Peoples
+0367838	Ronald Harwood
+0573905	Lesley McNeil
+0923303	Gerald Wexler
+0102903	Malcolm Bradbury
+0372942	Ben Hecht
+0294440	Judy Freudberg
+0725983	John Ridley
+0309691	John Gatins
+0899854	Tony Vitale
+0587518	John Milius
+0493369	J.F. Lawton
+0137020	Peter Carey
+0725075	Bill Richmond
+0004767	Joseph Bologna
+0367867	Adi Hasak
+0255278	James Ellroy
+0634240	Christopher Nolan
+0368981	Kayo Hatta
+0502577	Brett Leonard
+0415245	Benoît Jacquot
+0569474	Jim McGlynn
+0004366	Tom Wolfe
+0209918	Rudy De Luca
+0296689	Roy Frumkes
+0258627	Greg Erb
+0004752	Troy Byer Bailey
+0236486	Roddy Doyle
+0774857	Amy Schor
+0944146	Johann David Wyss
+0896131	Mark Victor
+0097491	Phillip Borsos
+0363326	Robert Harling
+0325175	Daniel Goldberg
+0531930	Sharman Macdonald
+0568825	Todd McFarlane
+0928230	John Wilcox
+0001379	John Huston
+0911599	Jay Ward
+0848217	Ted Tally
+0670214	Susan Peehl
+0438230	Ed Kaplan
+0877901	Terry Turner
+0507312	Janet Lewis
+0838015	Daniel G. Sullivan
+0712444	Rand Ravich
+0647431	Michael Olmert
+0835732	Jeb Stuart
+0392237	Nicole Holofcener
+0169173	David Aaron Cohen
+0109205	Homer Brightman
+0947395	Bennett Yellin
+0777457	Steven Schwartz
+0689778	Vicki Polon
+0750344	Terry Runte
+0286163	C.S. Forester
+0805284	Paul Slansky
+0743239	Benjamin Ross
+0937074	William D. Wittliff
+0580559	Anne Meredith
+0877913	Tina Turner
+0868620	Edwin Torres
+0061944	Tristán Bauer
+0455875	W.P. Kinsella
+0711877	Aubrey K. Rattan
+0775017	David J. Schow
+0743232	Arthur A. Ross
+0003201	Tim Sullivan
+0787082	Sabi H. Shabtai
+0060103	Ronald Bass
+0514928	Gu Liu
+0827750	Joshua Michael Stern
+0913715	Wendy Wasserstein
+0927074	Gregory Widen
+0663490	Sara Parriott
+0777442	Sherwood Schwartz
+0530853	Fibe Ma
+0639618	John O'Brien
+0404754	Willard Huyck
+0873266	Rose Troche
+0129310	Philippe Caland
+0781895	Harry Segall
+0325743	Bo Goldman
+0560857	W. Somerset Maugham
+0501872	Melchior Lengyel
+0445914	Hugh Kelley
+0557185	Olivier Massart
+0001392	Peter Jackson
+0777447	Stefan Schwartz
+0563301	Craig Mazin
+0021433	Dorothy Allison
+0116663	Franco Brusati
+0474955	Roger Kumble
+0384185	Debra Hill
+0782266	Peter Sehr
+0048276	Bob Baker
+0107366	Neal Brennan
+0286950	E.M. Forster
+0110778	Kevin Brodbin
+0169556	Lester Cohen
+0389591	P.J. Hogan
+1005420	Ashley Miller
+0919087	Marie Weiss
+0377543	Richard P. Henrick
+0330390	Leon Gordon
+0175028	Richard Connell
+0169540	Larry Cohen
+0001338	Brian Helgeland
+0475081	Milan Kundera
+0214518	Daniel Defoe
+0406687	Leon Ichaso
+1202838	Noah Haidle
+0454783	I. Marlene King
+0742428	Dale Rosenbloom
+0863387	George Tillman Jr.
+0445933	John Patrick Kelley
+0108595	Paul Brickhill
+0219136	Claire Denis
+0169548	Lawrence D. Cohen
+0041864	John August
+1022455	Benh Zeitlin
+0275509	Richard Feynman
+0351911	Belinda Haas
+0004306	George Miller
+0001325	Hal Hartley
+0583397	Turi Meyer
+0075427	Oliver Berkman
+0009190	J.J. Abrams
+0455839	Keisuke Kinoshita
+0908753	Lew Wallace
+0268380	Peter Farrelly
+0911061	Wayne Wang
+0226343	Lew Dietz
+2769412	Stephenie Meyer
+0407794	Luigi Illica
+0075834	Rick Berman
+0874308	Dalton Trumbo
+0642137	Denis O'Neill
+0909775	Maurice Walsh
+0616810	Michael Scott Myers
+0245235	Frank Dux
+0866062	Michael Tolkin
+0365659	Jim Harrison
+0543438	Daniel P. Mannix
+0042179	Jean Aurenche
+0001357	Paul Hogan
+0541098	Yuri Mamin
+0629933	William Nicholson
+0528337	Jennifer Chambers Lynch
+0497578	Joie Lee
+0690069	Edward Pomerantz
+0925849	Hugh Whitemore
+0788583	Mel Shapiro
+0689385	Jeff Pollack
+0365666	John Harrison
+0114083	Len Brown
+0788991	Alan Sharp
+0140643	Jean-Claude Carrière
+0462895	David Koepp
+0501435	Kasi Lemmons
+0445552	Tim Kelleher
+0689796	Abraham Polonsky
+0696641	Jacques Prevel
+0462898	Stephen Koepp
+0263097	Nick Evans
+0365661	Joan Harrison
+0045398	Ellyn Bache
+0006997	Peter M. Lenkov
+0842934	Meera Syal
+0084114	Larry Bishop
+0233557	Ariel Dorfman
+0088397	Bertrand Blier
+0115202	Ricou Browning
+0003662	Graham Yost
+0358591	Dashiell Hammett
+0093927	Edward Bond
+0269463	Jon Favreau
+0943909	John Wyndham
+0834338	Wesley Strick
+0835297	Arkadiy Strugatskiy
+0638913	Ron Nyswaner
+0835298	Boris Strugatskiy
+0505230	Jeremy Leven
+0400441	Allen Hughes
+0002049	Robert Downey Sr.
+0570995	Jim McKay
+0780799	Ted Sears
+0400436	Albert Hughes
+0169505	Joel Cohen
+0377088	Hilary Henkin
+0045321	Jean Bach
+0651915	Nagisa Ôshima
+0638033	Victor Nunez
+0180644	Eugene Corr
+0057398	Michael Barrie
+0076602	Paul Bernbaum
+0337731	Clifford Green
+0546807	Seth Margolis
+1362432	Jérôme Salle
+0002041	Dean Devlin
+0446015	William Kelley
+0467942	Jim Kouf
+0002042	Charles Dickens
+0682830	Krzysztof Piesiewicz
+0858482	Anna Thomas
+0425540	Kenneth Johnson
+0898479	Catherine Vimenet
+0115224	John Brownjohn
+0001302	Christopher Guest
+0001300	John Grisham
+0535189	David Madsen
+0002010	Christian Clavier
+0326118	Olivia Goldsmith
+0383958	Tony Hiles
+0083326	Harry Birckmayer
+0356424	Peg Haller
+1698571	Evan Goldberg
+0000500	Richard Linklater
+0001707	Paul Schrader
+0878638	David Twohy
+0122344	Charles Burnett
+0906659	Fred Waitzkin
+0512231	Howard Lindsay
+0796359	Sylvia Sichel
+0723351	Anne Rice
+0875354	Shin'ya Tsukamoto
+0225235	Kevin DiCicco
+0128698	Tim Cahill
+0656039	Ernest Pagano
+0731271	Jonathan Roberts
+0616851	Scott Myers
+1080144	Leo Benvenuti
+0842582	David Swift
+0070368	Steve Bencich
+0182873	Manny Coto
+0748928	Alan Rudolph
+0500329	Warren Leight
+0534352	Malcolm MacRury
+0286121	Jean-Claude Forest
+0941280	Cornell Woolrich
+0225283	R.A. Dick
+0905957	John Wagner
+0075388	Brian Fair Berkey
+0003620	Kevin Smith
+0271641	Earl Felton
+0122364	Frances Hodgson Burnett
+0828342	Dana Stevens
+0411477	Neal Israel
+0932229	Calder Willingham
+0541391	Milcho Manchevski
+0002083	Carl Franklin
+0560469	John Mattson
+0456017	Rudyard Kipling
+0094558	Vittorio Bonicelli
+0438229	E. Jack Kaplan
+0867195	David Toney
+0070380	Alessandro Bencivenni
+0798103	Stirling Silliphant
+0121256	Anthony Burgess
+0289219	Robbie Fox
+0607876	John Mortimer
+0392848	Winnie Holzman
+0131661	Lorne Cameron
+0045301	Danilo Bach
+0371771	Lillie Hayward
+0175080	Joe Connelly
+0320564	Fred Gipson
+0466473	Randy Kornfield
+0366337	James V. Hart
+0905152	Andy Wachowski
+0456946	David Kirschner
+0905154	Lana Wachowski
+0157536	Helen Childress
+5291683	Suhaib Ilyasi
+0306421	Pelayo García
+0294825	Ron Fricke
+0063511	Wayne Beach
+0287124	Garrett Fort
+0277393	Charles Finch
+0069833	María Luisa Bemberg
+0000231	Oliver Stone
+0000233	Quentin Tarantino
+0381280	Sig Herzig
+0317218	William Gibson
+0005358	Tim Rice
+0001775	Whit Stillman
+0000552	Eddie Murphy
+0317212	Walter B. Gibson
+0001779	Tom Stoppard
+0006357	Daniel Schmid
+0549393	Malcolm Marmorstein
+0000559	Leonard Nimoy
+0868219	Guillermo del Toro
+0006916	Michael Ritchie
+0124918	Frank Butler
+0000247	John Woo
+0242028	Lois Duncan
+0335848	Günter Grass
+0359734	Michael Haneke
+0615780	John Musker
+0000957	Jan de Bont
+0812747	Ken Solarz
+0568313	Michael McDowell
+0544912	Robert Marasco
+0381273	John Herzfeld
+0158966	Lisa Cholodenko
+0000241	Jean-Claude Van Damme
+0001769	Howard Stern
+0340674	Rudolph Grey
+0300004	Fernando Gabeira
+0287931	Lewis R. Foster
+0000255	Ben Affleck
+2501819	Stanley Gordon West
+0000985	James L. Brooks
+0287147	Christian Forte
+0898006	Henry S. Villard
+0924772	Elizabeth White
+0164187	Larry Clark
+0591612	Susan Minot
+0000570	Alan Parker
+0460200	Jeffrey Kluger
+0267681	Sean Farley
+0471392	Eric Kripke
+0000576	Sean Penn
+0876051	Teresa Tucker-Davies
+0372877	Julie Hébert
+0828350	David Stevens
+0895995	Michael Vickerman
+0267288	Jean-Pol Fargeau
+0303032	George Gallo
+0000265	Robert Altman
+0000264	Pedro Almodóvar
+0259715	Laura Ernst
+0000269	Jean-Jacques Annaud
+0125706	A.S. Byatt
+0000581	Joseph L. Mankiewicz
+0000583	Wolfgang Petersen
+0121708	James Burke
+0204313	Carlos Davis
+0224634	I.A.L. Diamond
+0648546	Michael Ondaatje
+0006904	Tony Gilroy
+0868209	Antonio Toro
+0680250	Bill Phillips
+0049721	John L. Balderston
+0685587	Joseph D. Pistone
+0119423	Gordon Buford
+0005421	Ron Shelton
+0000921	Andrew Bergman
+0238778	Lee Drysdale
+0061510	John Tucker Battle
+0242059	Patrick Sheane Duncan
+0124947	Hugo Butler
+0000519	David Mamet
+0200978	Jonathan Darby
+0590360	Paula Milne
+0395924	David Hoselton
+0240987	Martine Dugowson
+0849282	Edward Tang
+0027572	Wes Anderson
+0121715	James Lee Burke
+0564496	Pat McCabe
+0112218	Richard Brooks
+0001731	Sam Shepard
+0916177	Kenneth S. Webb
+0812773	Helena Solberg
+0148489	Janus Cercone
+0556928	Robert Mason
+0327273	Michel Gondry
+2911434	Sue Miller
+0000914	Robert Benton
+0609236	Jonathan Mostow
+0251328	Kerry Ehrin
+0792845	Robert E. Sherwood
+0455404	Dick King-Smith
+0536249	Claude Magnier
+0274923	Walter Ferris
+0093965	Jonathan Bond
+0242064	Peter Duncan
+0929349	Christopher Wilkinson
+0001728	Wallace Shawn
+0370426	Nathaniel Hawthorne
+0002007	Tom Clancy
+0000520	Michael Mann
+0005436	John Singleton
+0002009	Arthur C. Clarke
+0208854	Rolf de Heer
+0310920	Michael Gaylin
+0695080	Bill Prady
+0525303	Baz Luhrmann
+0010434	Gilbert Adair
+0000948	Shane Black
+0178785	Alec Coppel
+0262098	Anne-Marie Etienne
+0601619	Michael Moore
+0184689	Jack Cowden
+0316599	Stella Gibbons
+0842523	Robin Swicord
+0701049	Tony Puryear
+0773727	Bob Schneider
+0901896	Elizabeth von Arnim
+0001754	Todd Solondz
+3004592	Frank Barhydt
+0119405	Takashi Bufford
+0915465	Shawn Wayans
+0381221	Adam Herz
+1087085	Jerry Eeten
+0001752	Steven Soderbergh
+0654582	Boyd Oxlade
+0000934	Bernardo Bertolucci
+0636358	John Norville
+0274905	Michael Ferris
+0734319	Alexandre Rockwell
+0155280	Kaige Chen
+0701821	Marie Pérennou
+0565522	Stephen McCauley
+0097529	Dave Borthwick
+0666248	James Patterson
+0000540	Russ Meyer
+0000345	Billy Crystal
+0000341	Michael Crichton
+0903361	Kurt Vonnegut Jr.
+0000343	David Cronenberg
+0088645	Robert Bloch
+0784682	Al Septien
+0092018	Leslie Bohem
+0001465	Elmore Leonard
+0001466	Sergio Leone
+0510989	Kay Linaker
+0001469	Barry Levinson
+0860019	Danièle Thompson
+0001471	Jerry Lewis
+0000338	Francis Ford Coppola
+0426510	Aaron Kim Johnston
+0162888	Raymond Cistheri
+0333060	David S. Goyer
+0820669	Nicholas St. John
+0628399	Ted Newsom
+0375900	James Helvick
+0892705	David Veloz
+0728307	Robert Riskin
+0311020	Joe Gayton
+0629887	Michael Nicholson
+0001060	Chris Columbus
+0398185	Peter Howitt
+0012496	Gilles Adrien
+0228013	Djibril Diop Mambéty
+0032561	Igor Aptekman
+0000320	Luis Buñuel
+0706898	Ivan Raimi
+0870841	Tran Anh Hung
+0336241	Alex Graves
+0000329	Jackie Chan
+0817639	Aaron Speiser
+0122653	Edward Burns
+0909484	Hugh Walpole
+0623761	Christopher Neame
+0042472	Michael Austin
+0020728	Kevin Allen
+0114595	Rosellen Brown
+0001053	Ethan Coen
+0001054	Joel Coen
+0398174	Jana Howington
+0318429	David Giler
+0167241	Henri-Georges Clouzot
+0174410	Richard Condon
+0001047	Michael Cimino
+0001045	Tommy Chong
+0000318	Tim Burton
+0557895	William Mastrosimone
+0000316	Mel Brooks
+0706882	Philip Railsback
+0794326	John Shirley
+0001459	Denis Leary
+0436960	John Kamps
+1255497	Darin Silverman
+0851492	Clifton L. Taulbert
+0001454	Martin Lawrence
+0461425	Frederick Knott
+0435788	Tom Kalin
+0614742	Tab Murphy
+0373282	Peter Hedges
+0910361	Rupert Walters
+0683108	Johanna Pigott
+0103684	Michael Brady
+0662084	J. Stanford Parker
+0047748	Beryl Bainbridge
+0536587	Jeff Maguire
+0001986	Truman Capote
+0493042	T.E. Lawrence
+0711905	Terence Rattigan
+0160602	Mark Christopher
+0741239	Andy Rose
+0415617	Henry Jaglom
+0414551	Michael Jacobs
+1255905	Robert M. Young
+1471491	Jeff Davis
+0519001	James Long
+0432075	Jerry Juhl
+0830294	Joe Stillman
+0744429	Terry Rossio
+0662678	Tom S. Parker
+1228100	Elizabeth Livingston
+0547966	Frances Marion
+0371088	John Michael Hayes
+0502643	Hugh Leonard
+0072746	Trevor Bentham
+0206695	Daying Ye
+0404846	David Henry Hwang
+0905709	Walter Wager
+0629387	Gregor Nicholas
+0753526	RZA
+0121106	Andy Burg
+0688585	Jean-Marie Poiré
+0528487	Vernon Lynch
+0794385	Masamune Shirow
+0397574	Robert E. Howard
+0254402	Chris Elliott
+0272704	Guy Ferland
+0724700	Mike Richardson
+2373855	Jolene Rice
+2226970	David A. Newman
+0401076	Victor Hugo
+0683912	Gregory K. Pincus
+0369142	Lawrence Hauben
+0613163	Rona Munro
+0942408	Geoffrey Wright
+0227540	Mark Dindal
+0299154	Jules Furthman
+0001098	Rodney Dangerfield
+0001093	John Dahl
+0001094	Roald Dahl
+1729162	Peter McGennis
+0695609	Ruth Prawer Jhabvala
+0001486	Sidney Lumet
+0751752	Vito Russo
+0940790	Skip Woods
+0519026	John Long
+0140902	Lewis Carroll
+0521739	David Loughery
+0625621	Michael J. Nelson
+0558533	Chris Matheson
+0106563	Andy Breckman
+0603294	Gérard Mordillat
+0575293	Irene Mecchi
+0825010	Joseph Stefano
+0001084	Ice Cube
+0785311	Alexandra Seros
+0001083	Jon Cryer
+0075044	Eleanor Bergstein
+0701597	Albert Pyun
+0001081	Cameron Crowe
+0322045	Barry Glasser
+0368818	Richard Hatem
+0192090	Rusty Cundieff
+0277590	Anne Fine
+0898812	Luciano Vincenzoni
+0296785	Rosalie K. Fry
+0858277	Caroline Thivel
+0766665	Oscar Saul
+0374423	Robert A. Heinlein
+0600528	Rick Moody
+0909026	Anthony Waller
+0704164	Gene Quintano
+0537363	Richard Maibaum
+0001940	Peter Benchley
+0647592	Arne Olsen
+0001945	Claude Berri
+0574259	Scott McPherson
+0788234	John Patrick Shanley
+0001949	Andrew Birkin
+0864741	Moufida Tlatli
+0898391	Ray Villis
+0252155	Philip Eisner
+0003508	Michel Blanc
+0003506	James Mangold
+0109300	John Briley
+0114526	Riwia Brown
+0527325	Dana Lustig
+0011206	Max D. Adams
+0748665	Albert S. Ruddy
+0003927	Gyula Gazdag
+0573645	Terrence McNally
+0179216	Gérard Corbiau
+0003535	Ken Sanzel
+0187769	Charles Crichton
+0021734	Gila Almagor
+0385264	James Hilton
+0179215	Andrée Corbiau
+0326734	Bryan Goluboff
+0011623	Charles Addams
+0291082	Scott Frank
+0168379	Jay Cocks
+0001921	Paul Attanasio
+0573505	Larry McMurtry
+0064479	Simon Beaufoy
+0958454	Carl Zuckmayer
+0100765	John Bowe
+0941314	Linda Woolverton
+0001929	Josiane Balasko
+0751720	Richard Russo
+0368051	Izô Hashimoto
+0292072	Angus Fraser
+0428002	Ed Jones
+0789737	George Bernard Shaw
+0408718	William Inge
+0742797	Mark Rosenthal
+0481418	Richard LaGravenese
+0359387	John Lee Hancock
+0141281	L.M. Kit Carson
+0259255	Geir Eriksen
+0001930	Russell Banks
+0666999	Steven Paul
+0487597	Peter Liapis
+0788612	Paul W. Shapiro
+0742796	Margaret Rosenthal
+0770072	Mimi Rothman Schapiro
+0607454	Barry Morrow
+0933505	Hugh Wilson
+0440415	Lawrence Kasanoff
+0446651	Mary Kelly
+0558577	Richard Matheson
+0741262	Bernard Rose
+0000905	Roberto Benigni
+0003141	Alan Bennett
+0001031	Claude Chabrol
+0770005	James Schamus
+3204073	Louise Moon
+0090066	Reggie Rock Bythewood
+0593565	Margaret Mitchell
+0852591	Jim Taylor
+0646411	Adam Oliensis
+0223320	Peter Dexter
+0684596	Lucian Pintilie
+0772829	Arne Schmidt
+0852599	Joan Taylor
+0017301	Louisa May Alcott
+0001037	Graham Chapman
+0639321	Dan O'Bannon
+0364143	Heinrich Harrer
+0488613	Antonio Larreta
+0909077	Robert James Waller
+0296144	Friðrik Þór Friðriksson
+0768302	Walter Saxer
+0004675	Phil Alden Robinson
+0791217	Mary Shelley
+0090840	DeWitt Bodeen
+0061337	Joe Batteer
+0909464	Tom Walmsley
+0200164	Shell Danielson
+0253323	Harry Elfont
+0639335	James O'Barr
+0001023	John Cassavetes
+0564970	Leo McCarey
+0001024	Nick Cassavetes
+0798646	Amanda Silver
+0102824	Leigh Brackett
+0266166	Lee Falk
+0791248	Adrienne Shelly
+0003160	Christopher McQuarrie
+0710919	Jean-Paul Rappeneau
+0336695	James Gray
+0375476	Jaime Hellman
+0102818	Charles Brackett
+0180984	Kevin Corrigan
+0174840	Gerry Conlon
+0338557	Matt Greenberg
+0368007	Gustav Hasford
+0038611	Albert Ash
+0776856	Leon Schuster
+5462342	Josep Llurba
+0688117	James Poe
+0289439	Victoria Foyt
+0816143	Terry Southern
+0748218	John Rubino
+0330227	Gordon Gordon
+0714203	Katherine Reback
+0426539	Becky Johnston
+0280919	Ennio Flaiano
+0911486	David S. Ward
+0001005	Jane Campion
+0129724	Helen Caldwell
+0805073	Antonio Skármeta
+0304665	Lowell Ganz
+0156686	François Chevallier
+0000808	Paul Auster
+0400403	Roy Huggins
+0043233	Oren Aviv
+0334601	Sam Grana
+0002174	Yves Angelo
+0222757	Barry Devlin
+0089397	Roy Blount Jr.
+0846884	Don Tait
+0006894	Michael De Luca
+0467193	Ron Koslow
+1032521	Lorene Scafaria
+0795803	Mina Shum
+0492909	Marc Lawrence
+0286025	Carl Foreman
+0549256	Andrew W. Marlowe
+0000812	Roger Avary
+0040852	Leopold Atlas
+0141734	Joseph Carter
+0599291	Enzo Monteleone
+0939606	Charles Wood
+0488373	Jeremy Larner
+0438989	Larry Karaszewski
+0932569	Tim Willocks
+0086820	Michael Blakemore
+0208342	Frank De Felitta
+0407602	Eirik Ildahl
+0821417	Rama Laurie Stagner
+0041462	Patrick Aubrée
+0573185	Susan McMartin
+0018824	Danielle Alexandra
+0684163	Jia Pingau
+0300795	Beth Gage
+0761879	Åke Sandgren
+0907405	William Wales
+0531792	John D. MacDonald
+0406534	Rustam Ibragimbekov
+0551875	Alan Martin
+0496468	Charles Lederer
+0697412	Jenaro Prieto
+0185578	Peter Crabbe
+0002983	Stephen Peters
+0058129	Philip Barry
+0365131	Monika Harris
+0392792	Hans Holzer
+0337825	Ellen Green
+0109359	Steven Brill
+0800796	Theodore Simonson
+0383359	Colin Higgins
+0388273	Joel Hodgson
+0225820	Joan Didion
+0753452	Morrie Ryskind
+0392788	Erika Holzer
+0947913	Rafael Yglesias
+0325529	Jorge Goldenberg
+0074373	Stephen Berger
+0000806	Bille August
+0000807	Jane Austen
+0776114	Tom Schulman
+0002133	Ernest Hemingway
+0002132	Amy Heckerling
+0938586	Donald A. Wollheim
+0017274	Luis Alcoriza
+0868153	Giuseppe Tornatore
+0572951	Tom McLoughlin
+0716257	Matt Reeves
+0563434	Jill Mazursky
+0064503	Jérôme Beaujour
+0744035	Robert Rossen
+0650276	Alan Ormsby
+0689248	Haydée Politoff
+0861636	Roderick Thorp
+0143837	Vera Caspary
+0089742	Stuart Blumberg
+0425423	John Eddie Johnson
+0000850	Clive Barker
+0165412	James Clavell
+0589316	Seton I. Miller
+0951599	Steve Zacharias
+0091076	Sergey Bodrov
+0205569	Tom Davis
+0007186	Arthur Miller
+0104333	Chris Brancato
+0063819	Douglas Carter Beane
+1943855	Ron J. Friedman
+0686233	Angelo Pizzo
+0743361	Dev Ross
+0255133	Trey Ellis
+0272209	Edna Ferber
+0149446	Gurinder Chadha
+0604335	Nanni Moretti
+0592436	Brad Mirman
+0253652	George Eliot
+0814085	Stephen Sommers
+0122950	Jim Burnstein
+0622695	Gregory Nava
+0703800	Colin Quinn
+0433653	Reidar Jönsson
+0104336	John D. Brancato
+0581224	Monte Merrick
+0369675	Chris Hauty
+0006872	Sergio Donati
+0807155	Bobby Smith Jr.
+0420135	Richard Jefferies
+0258286	Delia Ephron
+0782739	Michael Seitzman
+0609549	Greg Mottola
+0607407	Paul Morrissey
+2665973	Thomas Nordseth-Tiller
+0506405	Eugene Levy
+0016718	Eliseo Alberto
+0500407	Vyacheslav Leikin
+0893895	Pat Verducci
+0632405	Anaïs Nin
+0009029	Peter Abrahams
+0710865	Philip Rapp
+0604360	Rafael Moreu
+3599054	Lucy Alibar
+0672093	Erdman Penner
+0287669	Alan Dean Foster
+0349334	Annette Goliti Gutierrez
+0104707	Gary Brandner
+0226538	John Dighton
+0173679	Betty Comden
+2236481	Hadar Galron
+0925493	T.H. White
+0069715	Rémy Belvaux
+0495378	Charles Leavitt
+0425957	Patrick Read Johnson
+0019116	Alberto Alfieri
+0744839	Eric Roth
+0113819	Jeffrey D. Brown
+1440144	Dana Brown
+0002167	Gianni Amelio
+0329544	Richard N. Goodwin
+0275612	Jaja Fiastri
+0204016	Valentine Davies
+0006888	Tom Noonan
+0562372	Edwin Justus Mayer
+0709070	Robert Ramsey
+0736622	Seth Rogen
+0236884	Diane Drake
+0062743	Jack Baxter
+0619268	James Nagel
+0848092	C.M. Talkington
+0569198	Kathleen McGhee-Anderson
+0155157	Baichen Chen
+0694869	Otto C. Pozzo
+0636002	Edmund H. North
+0622251	Robert Nathan
+0602866	Jack Moran
+0403398	William Hurlbut
+0168020	Randy Sue Coburn
+0829330	Donald Ogden Stewart
+0077135	Sara Bernstein
+0668902	Craig Pearce
+0568416	Alan B. McElroy
+1084359	Robert Daley
+0670328	Bill Peet
+0301826	Bob Gale
+0771494	Robin Schiff
+0051808	Bibhutibhushan Bandyopadhyay
+0712753	Billy Ray
+0877425	Bonnie Turner
+0428423	John G. Jones
+0178294	Paul W. Cooper
+0829329	Donald Stewart
+0440913	Mathieu Kassovitz
+0918711	David Weisberg
+0296861	E. Max Frye
+0000875	L. Frank Baum
+0668914	Donn Pearce
+0000876	Noah Baumbach
+0000872	Patrick Bauchau
+0277946	Ken Finkleman
+0277943	Fred F. Finklehoffe
+0558953	Melissa Mathison
+0436095	Bert Kalmar
+0000390	Joe Eszterhas
+0238898	Daphne Du Maurier
+0472503	Michael Krueger
+0492087	Julianna Lavin
+0641622	Ronan O'Leary
+0233223	Richard Dooling
+0386780	Norm Hiscock
+0119542	Jeff Buhai
+0458318	David Klass
+0867487	John Kennedy Toole
+0168764	Joseph Coencas
+0006845	Sally Potter
+0661910	Nick Park
+0635759	Stephen Norrington
+0622240	Mort Nathan
+0192996	Sheldon Currie
+0522454	H.P. Lovecraft
+0829343	Douglas Day Stewart
+0002120	Lasse Hallström
+0780622	Rick Seaman
+1093513	Tom Kapinos
+0029242	André Téchiné
+0020653	Jim Allen
+0001438	Neil LaBute
+0001437	Emir Kusturica
+0174304	Nicholas Conde
+0077171	Eric Bernt
+0071970	Parker Bennett
+0596571	Rafael Monleón
+0927345	David Michael Wieger
+0105317	Patrick Braoudé
+0720304	Adam Resnick
+0001429	Takeshi Kitano
+0000382	Atom Egoyan
+0001425	Krzysztof Kieslowski
+0079471	Jonathan R. Betuel
+0060761	Lee Batchler
+0442241	Philip Kaufman
+0561938	Elaine May
+0088726	Irving Block
+0000386	Roland Emmerich
+0318446	David Giles
+0275260	Michel Fessler
+0768703	Carolina Scaglione
+0542534	Herman J. Mankiewicz
+0317335	Charles Gieg Jr.
+0388227	David Hodgin
+0001410	Lawrence Kasdan
+0241092	Virginia Duigan
+0295357	Ron Friedman
+0241090	John Duigan
+0171474	Lewis Colick
+0740213	Darrell Roodt
+0241577	Petru Dumitriu
+0732430	Bruce Robinson
+0771486	Nadine Schiff
+0331079	James Gorman
+0000354	Matt Damon
+0759207	Victor Salva
+0006487	Jim Sheridan
+0823196	Jim Stark
+0822582	Richard Stanley
+0866243	Leo Tolstoy
+0719427	Robert Reneau
+0004170	Bob Kane
+0001403	Neil Jordan
+0667630	Mark Pavia
+0949861	Mark Young
+0049945	Karen Elise Baldwin
+0333949	Bruce Graham
+0289833	Michael France
+0126406	Lord Byron
+0125803	Danny Byers
+0331956	Carl Gottlieb
+0352443	Albert Hackett
+0001885	Lars von Trier
+0390822	Savage Steve Holland
+0040586	Eileen Atkins
+0443613	Stavros Kazantzidis
+0032685	Yuri Arabov
+0740400	Don Roos
+0001175	Blake Edwards
+0620290	Desmond Nakano
+0513601	Ken Lipper
+0362762	Thomas Hardy
+0186118	Mildred Cram
+0008673	Helen Aberson
+0077062	Jack Bernstein
+0668590	Senel Paz
+1053841	Robin Green
+0005036	Gale Anne Hurd
+0396767	John Housley
+0068109	Christine Bell
+0669379	Ryne Douglas Pearson
+0604666	Gabriel Morgan
+0929186	Rich Wilkes
+0680485	Jeff Phillips
+0143596	Jim Cash
+0379179	Mark Herman
+2226647	Keith Merryman
+0174934	Shane Connaughton
+0245499	Jim Dwyer
+0860125	Ernest Thompson
+0786564	Anna Sewell
+0871857	Rose Tremain
+0128906	James M. Cain
+0472947	Michael Kruzan
+0218621	James DeMonaco
+0211823	Steven E. de Souza
+0240357	Alan Duff
+0465588	Dean R. Koontz
+0499974	Bik-Wa Lei
+0706993	Norman Reilly Raine
+0521143	Chuck Lorre
+0152501	Richard Chapman
+0276823	Peter Filardi
+0000466	Jean-Pierre Jeunet
+0755981	Carl Sagan
+0000464	Jim Jarmusch
+0001191	Adam Sandler
+0006664	Zdenek Sverák
+0004111	Mark Frost
+0332392	Heywood Gould
+0001587	Alan J. Pakula
+0852430	Greg Taylor
+0151452	Raymond Chandler
+0524403	Clare Boothe Luce
+0430027	John Jordan
+0001590	Chazz Palminteri
+0859049	John Thomas
+0638175	Claude Nuridsany
+3840714	John O'Brien
+0228908	Leslie Dixon
+0751652	John A. Russo
+0457016	Lincoln Kirstein
+0795511	Kei Shu
+0936673	Theodore Witcher
+0877399	Barbara Turner
+0000455	John Hughes
+0001188	Nora Ephron
+0806959	Jane Smiley
+0230196	David Dodge
+0087904	Barry W. Blaustein
+0586235	Gordan Mihic
+0531183	Elise MacAdam
+0598036	Ivor Monger
+0004122	Robert Bolt
+0027271	Paul W.S. Anderson
+0293533	Morgan J. Freeman
+0001596	Pier Paolo Pasolini
+0098842	Alain Boublil
+0344631	James Gunn
+0223844	Michael J. Di Gaetano
+0536440	Jymn Magon
+0204456	Deborah Dean Davis
+0431918	Mike Judge
+0859920	Brett Thompson
+0312442	Andrew Gellis
+0006639	Jeff Lieberman
+0591791	Sam Mintz
+0923585	Edith Wharton
+0668122	John Paxton
+0143558	Warren Casey
+0603179	Alberto Moravia
+0832300	Sherri Stoner
+0859029	Jim Thomas
+0456732	Karey Kirkpatrick
+0747911	Bill Rubenstein
+0558001	Fred Mata
+0878494	Mark Twain
+0853139	Samuel W. Taylor
+0853138	Samuel A. Taylor
+0945026	Boaz Yakin
+0569210	Josann McGibbon
+1341735	David Magee
+0330565	Robert Gordon
+0117955	John Buchan
+0629272	Andrew Niccol
+0000425	Peter Greenaway
+0649191	Joshua Oppenheimer
+0099541	Pierre Boulle
+0172830	Carlo Collodi
+0858657	Craig Thomas
+0414448	Jim Jacobs
+0557767	Whit Masterson
+0173953	Nina Companéez
+0240384	James Duff
+0887279	Frank Van Keeken
+0625214	Carl Nelson
+0001873	Steven Zaillian
+0219720	Pen Densham
+0566380	Jonas McCord
+1989798	Alexis Nolent
+0886668	John Van Druten
+0001878	David Zucker
+0000419	Jean-Luc Godard
+0019732	Arif Aliyev
+0000416	Terry Gilliam
+0067464	Jean-Pierre Bekolo
+0568605	Ian McEwan
+0368719	Eric Hatch
+0251188	John Ehle
+0145309	Nick Castle
+0783559	Terrel Seltzer
+0437645	Sui Lai Kang
+0276466	Jacques Fieschi
+0603588	Gaël Morel
+0960028	Katsuhiro Ôtomo
+1397579	Ben Coccio
+0742279	Melissa Rosenberg
+0400251	Arianna Huffington
+0938132	Ronald Wolfe
+0425756	Mark Steven Johnson
+0231639	Jeannine Dominy
+0783544	David Seltzer
+0030663	Jay Anson
+0937289	P.G. Wodehouse
+0395645	Matthew Horton
+0573732	Sean McNamara
+0268138	Robert Farrar
+0001804	Stanley Tucci
+0001801	Robert Towne
+0551923	Ann M. Martin
+0551926	Anne-Marie Martin
+0418321	Karen Janszen
+0143129	David Casci
+0003408	Chris Marker
+0392020	Richard Holmes
+0081189	Ann Biderman
+0783536	Aaron Seltzer
+0280840	Fannie Flagg
+0790715	Penelope Spheeris
+0011343	Samuel Hopkins Adams
+2482088	Tommy Wirkola
+0001814	Gus Van Sant
+0094726	Pascal Bonitzer
+0741942	Dan Rosen
+0427468	Amy Holden Jones
+1877466	Cheryl Chase
+0688497	Jean Poiret
+0376676	Tony Hendra
+0703720	Jim Quinlan
+0239260	Martin Duberman
+0001825	Andrew Kevin Walker
+0759070	James Salter
+0156254	Ronald Chesney
+0232776	Thomas Dean Donnelly
+0662529	Oliver Parker
+0475823	Harry Kurnitz
+0001112	Andrew Davis
+0812200	Iain Softley
+0553168	Valerie Martin
+0011339	Samantha Adams
+0387025	Ken Hixon
+0005082	David E. Kelley
+0778818	Allan Scott
+0668500	John Payson
+0310782	Lawrence Gay
+0101625	Brandon Boyce
+0575656	Benny Medina
+0095468	Louis Paul Boon
+0705331	Chris Radant
+0928444	Hagar Wilde
+0001104	Frank Darabont
+0095460	Ed Boon
+0345359	John Guare
+0161834	Derek Cianfrance
+0920543	Irvine Welsh
+0335666	Susannah Grant
+0588458	Harvey Miller
+0175620	Chris Conrad
+0001139	Tom DiCillo
+0836612	William Styron
+1650330	Sue Monk Kidd
+0109432	David Brin
+0912431	Chris Warner
+0909556	Bill Walsh
+0543619	Guy Manos
+0203993	Terence Davies
+0454573	Chloe King
+0246503	Agustín Díaz Yanes
+1418756	Dennis Cooper
+0911750	Morgan Ward
+0331514	Paula Gosling
+0800124	Ellen Simon
+0330108	Dan Gordon
+0090151	Jeffrey Boam
+0358334	Sam Hamm
+0443181	Stephen Kay
+0196119	Don DaGradi
+0393645	Richard Hooker
+0140860	Jim Carroll
+0075626	Alain Berliner
+0541632	Babaloo Mandel
+0285210	Horton Foote
+0839397	Masayuki Suo
+0153546	Leslie Charteris
+0142899	Denise Casano
+0285218	John Taintor Foote
+0003825	Andrew Neiderman
+0533938	Wendy MacLeod
+0795953	Ronald Shusett
+0679037	Harley Peyton
+0131840	Augusto Caminito
+0266684	Hampton Fancher
+0316724	Ric Gibbs
+0956766	Paul Zimmerman
+0253214	Laurice Elehwany
+0778332	Roland Schütt
+0941811	Sönke Wortmann
+0003031	Caroline Thompson
+0328922	Philip Goodhew
+0245435	Laurence Dworet
+0001140	Philip K. Dick
+0003032	Bob Ducsay
+0415979	Don Jakoby
+0093232	Gabriel Bologna
+1674631	Yann Martel
+0266673	Barry Fanaro
+0000040	Stanley Kubrick
+0241416	Alexandre Dumas père
+0000041	Akira Kurosawa
+0102722	Gérard Brach
+0696409	Douglas Preston
+0744982	Philipp Roth
+0213116	Nick Dear
+2683048	Matthew Quick
+0394201	John Hopkins
+0438449	Mitchell Kapner
+0779011	Darin Scott
+0416556	Henry James
+0291253	Al Franken
+0177018	Douglas Cook
+0726472	Adam Rifkin
+0006798	Matthew Harrison
+0937725	Dick Wolf
+0595131	Freida Lee Mock
+1492515	Eli B. Despres
+0189496	Russel Crouse
+0907929	Keith Walker
+0131947	Alessandro Camon
+0290833	Anne Frank
+0368607	Michael Hastings
+0236305	Carol Doyle
+0310319	Susan Gauthier
+2060068	Wing-Fai Wong
+0301362	William M. Gaines
+0647615	Dana Olsen
+0365417	Vernon Harris
+0713193	Chet Raymo
+0210701	Manoel de Oliveira
+0222874	Lorraine Devon
+0943382	Rudy Wurlitzer
+0516598	Robert LoCash
+0590188	Sherry Mills
+0288473	Christian Fournier
+0225977	William Diehl
+0860650	Robert C. Thompson
+0025978	Allison Anders
+0436543	Robert Mark Kamen
+0807977	Dodie Smith
+0089676	Len Blum
+0779043	Deborah Scott
+0055726	Peter Barnes
+0426917	Iain Johnstone
+0509255	Franz Lidz
+0406032	Peter Høeg
+0788095	Peter Shaner
+0151362	Evan Chandler
+0110591	Jeremy Brock
+0000709	Robert Zemeckis
+0873579	Joseph Tropiano
+0044866	Thomas Babe
+0278277	Jack Finney
+0736752	Bogart Rogers
+0000005	Ingmar Bergman
+0912889	John Warren
+0006129	Michael Hoenig
+0380705	Rowdy Herrington
+0944481	Li Xiao
+0769703	Eric Schaeffer
+0618800	Gary Nadeau
+0000712	Steve Cohen
+0155093	Peter Chelsom
+0641714	David O'Malley
+0771512	Michael Schiffer
+0258390	Jack Epps Jr.
+0958499	Anthony E. Zuiker
+0691794	Andrea Porporati
+0000720	Jim Abrahams
+0477910	Ralf König
+0805965	Holly Goldberg Sloan
+0450361	Lyle Kessler
+0644467	Susanne Ofteringer
+0497369	Harper Lee
+0553221	Yves André Martin
+0451884	Callie Khouri
+0101639	Frank Cottrell Boyce
+0143944	Neal Cassady
+0050618	J.G. Ballard
+0624516	Michel Negroponte
+0382147	Russ Hexter
+0616152	Floyd Mutrux
+0343165	Winston Groom
+0074880	Yael Bergman
+0894156	Mark Verheiden
+0937748	Fred Wolf
+0914134	Mark Waters
+0537436	F.X. Maier
+0548732	Mitch Markowitz
+0792624	Tom Sherohman
+0944878	Scott Yagemann
+0326356	Deena Goldstone
+0751102	David O. Russell
+2295075	Ralph Leighton
+0255008	Novalyne Price Ellis
+0458251	Cédric Klapisch
+0166256	Ron Clements
+0258370	Tom Epperson
+0931783	Tennessee Williams
+0665321	Jonas Pate
+0497762	Pik Wah Li
+0291905	David Franzoni
+0665322	Josh Pate
+0403995	Abdullah Hussein
+0377750	Buck Henry
+0913966	Rémi Waterhouse
+0000740	Irwin Allen
+0311469	Bill Geddie
+0485713	Christa Lang
+0392648	Lou Holtz Jr.
+0000019	Federico Fellini
+0497346	Gypsy Rose Lee
+0787257	Dirk Shafer
+0550446	Joel B. Marsden
+0382548	Winston Hibler
+0071657	Charles Bennett
+0628534	Jeremiah Newton
+1381694	Spice Girls
+0153129	Rebecca Charles
+0000759	Paul Thomas Anderson
+0068183	Elisa Bell
+0734441	Robert Rodat
+0270761	Bruce Feirstein
+0322248	Mitch Glazer
+0171718	Michael Colleary
+0002616	Anita Loos
+0349425	Tomás Gutiérrez Alea
+0850168	Daniel Taradash
+0281969	Charlie Fletcher
+0020163	Steven Alldredge
+0946100	Zhengguang Yang
+0815071	Arleen Sorkin
+0447745	Thomas Keneally
+0815070	Aaron Sorkin
+0644203	Steve Oedekerk
+0301961	Henrik Galeen
+0831290	Bram Stoker
+0503585	Alan Jay Lerner
+0280447	Louise Fitzhugh
+0896830	Peter Viertel
+0312367	Bruce Geller
+0323708	Alain Godard
+0819045	Tony Spiridakis
+0538938	Curzio Malaparte
+0698493	Pat Proft
+0552140	Darnell Martin
+0458228	Robert Klane
+0002211	Christopher DeFaria
+0000777	Gregg Araki
+1226733	Christopher Reed
+0086333	Rikki Beadle Blair
+0955600	Ni Zhen
+0322227	Benjamin Glazer
+0809245	Mark Haskell Smith
+0674978	Ben Perry
+4465001	Frances Beeding
+0327064	Nick Gomez
+0832369	Lynne Stopkewich
+0458826	Joe Klein
+0353187	Steven Haft
+0538107	Lech Majewski
+0822827	Claude Stanush
+0450720	Alexander Key
+0734472	Gene Roddenberry
+0001507	Cheech Marin
+0550930	James Marshall
+0914166	Roger Waters
+0571106	Michael McKean
+0513255	Gertrude Davies Lintz
+0538532	Mohsen Makhmalbaf
+0550937	James Vance Marshall
+0366942	Don Hartman
+0668132	Michael Paxton
+0727423	Fabio Rinaudo
+0668135	Robert O. Paxton
+0934483	Kurt Wimmer
+0222079	Helen Deutsch
+0281556	Walter Reisch
+0152466	Matthew Chapman
+0108613	Marshall Brickman
+0506597	Robert L. Levy
+0878125	Saul Turteltaub
+0382114	Jamie Hewlett
+0566407	Mark McCorkle
+0246903	Doris Dörrie
+0517465	Christopher Lofton
+0767110	Claude Sautet
+0753382	Michael Rymer
+0677943	Daniel Petrie Jr.
+0938645	Wallace Wolodarsky
+0112488	John Brosnan
+0956022	Claude Zidi
+0384335	Jack Hill
+0000080	Orson Welles
+0386871	Michael Hitchcock
+0291205	David Frankel
+0268513	John Farrow
+0383733	Nat Hiken
+0001528	Don McKellar
+0070159	Jafar Panahi
+0442109	Charlie Kaufman
+0725379	W.D. Richter
+0455207	Robert King
+0035836	Mike Armstrong
+0118164	Lothar G. Buchheim
+0018735	Scott Alexander
+0000487	Ang Lee
+0181924	Jean Cosmos
+0855804	Ernest Terrazas
+0000485	Fritz Lang
+0000484	John Landis
+0796124	Charles Shyer
+0005101	Harmony Korine
+0508211	Maryse León García
+0271022	Dennis Feldman
+0077052	Gregory Bernstein
+0614682	Ryan Murphy
+0349406	Sebastian Gutierrez
+0001554	Errol Morris
+0812513	Alec Sokolow
+0115892	Claude Brulé
+0106505	Irving Brecher
+0178126	James Fenimore Cooper
+0892866	David Venable
+0658850	Dennis Palumbo
+0029125	Mark Andrus
+0628058	David Newman
+0388502	Hans Hoemburg
+0021249	Roger Allers
+0629309	Maurizio Nichetti
+0171372	Colette
+0395271	Adam Horowitz
+0601881	Simon Moore
+0410958	Kazuo Ishiguro
+0697115	Richard Price
+0940361	Richard Woodley
+0888720	Chris Vander Stappen
+0118556	Robert Buckler
+0476993	Irakli Kvirikadze
+0150894	Frankie Chan
+0201304	Gregory Poirier
+0264338	Carlos Ezquerra
+0281598	Andrew Fleming
+0525503	Steve LuKanic
+0178518	Robert Coover
+0293105	Donald Freed
+0431971	Stephen Judson
+0105033	Marcia Brandwynne
+0333804	Todd Graff
+0000092	John Cleese
+0155009	Anton Chekhov
+0522554	Jim Lovell
+0000095	Woody Allen
