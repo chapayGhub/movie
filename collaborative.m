@@ -1,10 +1,10 @@
-function [] = collaborative()
+function [rec_list] = collaborative()
 
     close all;
     %content of data: user_id|movie_id|rating|timestamp
     %sorted by user_id
     data = load('user_rating.mat');
-
+    data = data.data;
     %the number of the users
     no_user = max(data(:,1));
     %the number of the movies
@@ -32,7 +32,7 @@ function [] = collaborative()
     rating_mean = initialRatingMean(data, no_user);
 
     
-    for user_x = 1 : 2%need to be changed to no_user
+    for user_x = 1 : no_user%need to be changed to no_user
         %ux_film contains all the movies of user_x sorted by movie_id
         ux_film = sortrows(data(rating_mean(user_x,2):rating_mean(user_x,3),:),2);
         for user_y = 1 : no_user%need to be changed to no_user
@@ -42,6 +42,15 @@ function [] = collaborative()
             [counter_pos, counter_neg] = initialCounter(counter_pos,counter_neg,Rating(user_x,user_y),thres_pos,thres_neg,rec,disrec,user_x,uy_film);
         end
     end
+    
+    
+    %recommendation
+    k = 0.5;
+    thres = 40;
+    rec_list = recommend(counter_pos,counter_neg,k,thres);
+    save coll_recommend_list rec_list;
+    clear rec_list;
+    
 end
 
 %compute the positive and negative counters of movies 
@@ -92,5 +101,22 @@ function [rating_mean] = initialRatingMean(data,no_user)
         rating_mean(i,1) = mean(data(j(1,:):j(size(j,1),:),3));
         rating_mean(i,2) = j(1,:);
         rating_mean(i,3) = j(size(j,1),:);
+    end
+end
+
+
+function [rec_list] = recommend(counter_pos,counter_neg,k,thres)
+    %counter = zeros(size(counter_pos,1),size(counter_pos,2));
+    
+    counter = counter_pos + counter_neg.*k;
+    pointer = 1;
+    rec_list = [];
+    for i = 1:size(counter_pos,1)
+        for j = 1:size(counter_pos,2)
+            if counter(i,j) > thres
+                rec_list(pointer,:) = [i,counter_pos(i,j),counter(i,j)];
+                pointer = pointer + 1;
+            end
+        end
     end
 end
