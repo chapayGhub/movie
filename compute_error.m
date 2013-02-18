@@ -5,19 +5,16 @@ function [error_rate] = compute_error(user_list,recommend_list)
    
     threshold = 4;
     error = 0;
-    unwatched = size(recommend_list,1);
     for user_x = 1:size(user_list,1)
         %a = find(user_list(:,1) == user_x);
         user_id = user_list(user_x,1);
         a = find(recommend_list(:,1) == user_id);
         if ~isempty(a)
             recommend_film = zeros(size(a,1),1);
-            disp(recommend_film);
             s = a(1,1)+size(a,1)-1;
             recommend_film(:,1) = recommend_list(a(1,1):s,2);
             b = find(recommend_film(:,1) == user_list(user_x,2), 1);
             if ~isempty(b)
-                unwatched = unwatched - 1;
                 if user_list(user_x,3) < threshold
                     error = error + 1;
                 end
@@ -28,6 +25,5 @@ function [error_rate] = compute_error(user_list,recommend_list)
             end
         end
     end
-    error = error + unwatched;
     error_rate = error/size(recommend_list,1);
 end
